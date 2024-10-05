@@ -13,7 +13,7 @@
 
 <hr/> 
 
-<img align="right" height="500" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
+<img align="right" height="450" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
 
 ###
 

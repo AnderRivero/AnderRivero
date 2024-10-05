@@ -13,7 +13,6 @@
 
 <hr/> 
 
-<img align="right" height="400" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
 
 ###
 
@@ -40,6 +39,9 @@
 </div>
 
 ###
+
+<img align="right" height="400" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />

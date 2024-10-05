@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋! My name is Ander, I'm a Backend Developer</h2>
+
 ###
 
 <div align="center">
@@ -8,7 +9,7 @@
 
 ###
 
-<img align="right" height="420" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
+<img align="right" height="450" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
 
 ###
 

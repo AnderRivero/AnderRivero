@@ -1,6 +1,8 @@
-<h2 align="center">Hi 👋! My name is Ander, I'm a Backend Developer</h2>
+### Hi 👋! My name is Ander, I'm a Backend Developer
 
-###
+
+<hr/> 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +11,9 @@
 
 ###
 
-<img align="right" height="450" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
+<hr/> 
+
+<img align="right" height="500" src="https://i.ibb.co/C1LDM5w/octocat-1728145853293.png"  />
 
 ###
 
